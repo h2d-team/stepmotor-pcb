@@ -1,0 +1,11 @@
+Change Component Description : Designator=UART1 Old Description=Header 3P XH2.54 th?ng New Description=Header 3P XH2.54 th?ng
+Change Component Description : Designator=HD2 Old Description=Header 4P XH2.54 th?ng New Description=Header 4P XH2.54 th?ng
+Change Component Description : Designator=MO1 Old Description=Header 4P XH2.54 th?ng New Description=Header 4P XH2.54 th?ng
+Change Component Description : Designator=BT1 Old Description=Nút nh?n 4 chân, dán New Description=Nút nh?n 4 chân, dán
+Added Component: Designator=P1(HDR1X2)
+Added Pin To Net: NetName=GPIO1 Pin=P1-1
+Added Pin To Net: NetName=GPIO1 Pin=U5-18
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=P1-2
+Added Pin To Net: NetName=GPIO2 Pin=U5-19
+Added Net: Name=GPIO2
