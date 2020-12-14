@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=HD2 Old Footprint=HEADER 4 New Footprint=HDR1X4
+Change Component Description : Designator=UART1 Old Description=Header 3P XH2.54 th?ng New Description=Header 3P XH2.54 th?ng
+Change Component Description : Designator=MO1 Old Description=Header 4P XH2.54 th?ng New Description=Header 4P XH2.54 th?ng
+Change Component Description : Designator=BT1 Old Description=Nút nh?n 4 chân, dán New Description=Nút nh?n 4 chân, dán
