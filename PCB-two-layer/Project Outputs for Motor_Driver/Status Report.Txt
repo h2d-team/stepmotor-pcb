@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Motor_Driver.PrjPcb]
+   Generated File[PCB_Step.TXT]
+   Generated File[PCB_Step.LDP]
+   Generated File[PCB_Step.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:54:07 AM On 12/19/2020
